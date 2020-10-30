@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    text-align: center;
 }
 
 h1 {
@@ -7,12 +8,14 @@ h1 {
     font-weight: normal;
     color: white;
     font-size: 50px;
-    text-align: center;
 }
 
 h4 {
     font-size: 16px;
     color: aquamarine;
-    text-align: center;
 }
 
+.video-box {
+    width: fit-content;
+    margin: 0 auto;
+}
